@@ -13,7 +13,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['reyesja.github.io/AletheAIweb']
+ALLOWED_HOSTS = ['reyesja17.github.io/web.github.io']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
